@@ -4,13 +4,13 @@
 - 👯 Busco colaborar com qualquer coisa que eu possa ajudar e aprender
 - 📫 Contato: vitor.ghdo@gmail.com
 
- <a href="https://github.com/VitorH12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorH12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <a href="https://github.com/VitorGHDO">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorGHDO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="VitorH12-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="VitorH12-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="VitorH12-Et" src="https://c.tenor.com/gDb6b07sDsYAAAAM/space-ufo.gif">
+  <img align="center" alt="VitorGHDO-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="VitorGHDO-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="right" alt="VitorGHDO-Et" src="https://c.tenor.com/gDb6b07sDsYAAAAM/space-ufo.gif">
 </div>
 
 
