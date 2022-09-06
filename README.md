@@ -25,4 +25,4 @@
  <a href= "https://steamcommunity.com/id/zdarkvolk/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
 
-![Snake animation](https://github.com/VitorGHDO/vitor/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vitorghdo/vitorghdo/blob/output/github-contribution-grid-snake.svg)
