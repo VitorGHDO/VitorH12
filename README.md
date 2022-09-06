@@ -1,16 +1,18 @@
 ### Seja Bem-Vindo ao meu perfil ^^
 
-- 🌱 Eu estou estudando Java e Python
+- 📚 Sou estudande de Sistema de Informação (2021 - 2025)
+- 🌱 Eu estou estudando HTML, CSS e JavaScript
 - 👯 Busco colaborar com qualquer coisa que eu possa ajudar e aprender
-- 📫 Contato: vitor.ghdo@gmail.com
 
  <a href="https://github.com/VitorGHDO">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorGHDO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </div>
   <div style="display: inline_block"><br>
+  <img align="center" alt="VitorGHDO-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="VitorGHDO-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  <img align="center" alt="VitorGHDO-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="VitorGHDO-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="VitorGHDO-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
 </div>
 
 
