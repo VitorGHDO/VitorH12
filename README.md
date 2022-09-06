@@ -10,7 +10,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="VitorH12-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="VitorH12-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
+  <img align="right" alt="VitorH12-Et" src="https://c.tenor.com/gDb6b07sDsYAAAAM/space-ufo.gif">
 </div>
 
 
